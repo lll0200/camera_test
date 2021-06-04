@@ -1,0 +1,4 @@
+get_face_image   获取脸部照片   ok  待优化：获取脸部照片时，镶嵌在gui界面里面
+face_features_csv  把脸部照片转换为128D向量，保存在.csv中   ok
+face_test_login   系统主界面  视频编解码方式 ok
+kill  暴力结束进程   ok
